@@ -575,3 +575,6 @@ Otros lenguajes menos comunes, pero de interés por diversos motivos, se tratan 
 - [Haskell](Haskell.md)
 - [Prolog](Prolog.md)
 
+## Copyright
+
+Este proyecto se basa en el trabajo original de [@jamj2000] (ver [https://github.com/jamj2000/original-repo]).
