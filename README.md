@@ -12,7 +12,7 @@ El código fuente para algunos lenguajes de programación está disponible en:
 - https://es.wikipedia.org/wiki/Hola_mundo#Ejemplos
 
 
-Plataforma usada: Ubuntu 20.04 LTS.
+Plataforma usada: MacOS.
 
 Lenguajes usados:
 - Bash
@@ -32,6 +32,12 @@ Para tener soporte para los lenguajes anteriores, debemos instalar los siguiente
 
 ```
 sudo  apt  install  python3  php  nodejs  gcc  g++  openjdk-21-jdk  nasm  ruby  golang  rustc  clisp
+```
+
+Debereis crear cada uno de los archivos en distintos lenguajes usando el comando por ejemplo
+
+```
+touch hola.py
 ```
 
 --- 
