@@ -6,4 +6,4 @@
 [Ver carpeta T2_IDEs](https://github.com/thejosess/SIBW)
 
 ## Tema 3: Testing
-[Ver carpeta T3_Testing](https://github.com/thejosess/SIBW/tree/main/T3_Testing)
+[Ver carpeta T3_Testing](https://github.com/thejosess/T3_Testing)
